@@ -2,8 +2,8 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
-- 🔭 I’m currently a CS student at JSS - NOIDA.
-- 📚 I’m currently learning **Data Structures and Algorithms**.
+- 🔭 I’m Graduated in CSe from JSS - NOIDA.
+- 📚 I’m currently looking for a job and learning new technologies.
 
 ## Connect with me:
 
