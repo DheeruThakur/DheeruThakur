@@ -2,7 +2,7 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
-- 🔭 I’m Graduated in CSe from JSS - NOIDA.
+- 🔭 I’m Graduated in CSE from JSS - NOIDA.
 - 📚 I’m currently looking for a job and learning new technologies.
 
 ## Connect with me:
